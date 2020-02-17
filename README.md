@@ -22,7 +22,7 @@ API リファレンス リポジトリ以外のすべての問題とタスクに
 
 > **Docs国際版の機械翻訳（MT）エンジンの更新**
 > 
-> MTコンテンツの品質を向上させるために、ニューラルエンジンに移行し、より良い翻訳を提供すると信じています。 MTコンテンツへの投稿は _一時的に_ 無効になります。[詳細はこちらをお読みください](MTEngineUpdate.md)。
+> MTコンテンツの品質を改善するために、より良い翻訳を提供できると期待されるニューラルエンジンに移行中です。 MTコンテンツへの投稿は _一時的に_ 無効になります。[詳細はこちらをお読みください](MTEngineUpdate.md)。
 
 .NET Framework を対象とする既存のコードを、[提供終了したコード ギャラリー](https://docs.microsoft.com/teamblog/msdn-code-gallery-retired) サイトから、[サンプル リポジトリ](https://github.com/dotnet/samples)に格納されていて[サンプル ブラウザー](https://docs.microsoft.com/samples/browse)からダウンロードできる .NET Core アプリケーションに移行するのをサポートすることに関心がある場合は、[コード ギャラリーの移行](https://github.com/dotnet/docs/projects/88)プロジェクトを参照してください。 コード ギャラリーのサンプルは、[Microsoft アーカイブ](https://github.com/microsoftarchive?q=msdn-code-gallery)組織に移動しました。
 
